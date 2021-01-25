@@ -1,0 +1,20 @@
+# folders
+dist/
+source/.vs/
+source/generated/
+source/ipch/
+source/packages/
+temp/
+tools/*
+
+# files
+*.bak
+*.log
+*.opensdf
+*.sdf
+*.suo
+*.userprefs
+.DS_Store
+
+# kept files
+!tools/packages.config
